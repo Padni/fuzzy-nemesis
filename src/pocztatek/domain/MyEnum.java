@@ -1,4 +1,4 @@
-package darek.hibernate.domian;
+package pocztatek.domain;
 
 public enum MyEnum {
 	ONE, TWO ,THREE

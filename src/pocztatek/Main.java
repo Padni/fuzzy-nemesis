@@ -1,4 +1,4 @@
-package darek.hibernate;
+package pocztatek;
 
 import java.math.BigDecimal;
 
@@ -6,7 +6,7 @@ import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
 import javax.persistence.Persistence;
 
-import darek.hibernate.domian.Employee;
+import pocztatek.domain.Employee;
 
 public class Main {
 

@@ -1,13 +1,13 @@
-package darek.hibernate.domian;
+package pocztatek.domain;
 
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-import javax.persistence.Entity;
+
 import javax.persistence.Id;
 import javax.persistence.Transient;
 
-@Entity
+//@Entity
 public class PossibleTypes {
 	
 	@Id

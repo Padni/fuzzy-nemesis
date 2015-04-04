@@ -1,14 +1,13 @@
-package darek.hibernate.domian;
+package pocztatek.domain;
 
 import java.math.BigDecimal;
 
 import javax.persistence.Column;
-import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.Table;
 
-@Entity
+//@Entity
 @Table(name = "Pracownicy")
 public class Employee {
 
